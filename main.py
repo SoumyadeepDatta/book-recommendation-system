@@ -43,5 +43,5 @@ if rad=="About":
     st.write("[scikit-learn](https://scikit-learn.org/stable/)")
     st.write("[Open Library Covers API](https://openlibrary.org/dev/docs/api/covers)")
     st.write("[Dataset Link](https://www.kaggle.com/jdobrow/57000-books-with-metadata-and-blurbs)")
-    st.write("I had to trim the daraset as [Heroku](https://www.heroku.com/) supports upto 500 mb slug size. So out of 57,000 books, only 7000 are available under this model. Also some of the book's cover aren't available at this moment.")
+    st.write("I had to trim the daraset as [Heroku](https://www.heroku.com/) supports upto 500 mb slug size. So out of 57,000 books, only 15000 are available under this model. Also some of the book's cover aren't available at this moment.")
     
