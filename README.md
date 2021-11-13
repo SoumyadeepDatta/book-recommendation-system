@@ -7,7 +7,7 @@
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ### Book recommendation system using KNN (k-nearest neighbors) Algorithm 👉 [Click Here](https://bookscraper20.herokuapp.com)
-#### Or run the app on local machine. Download files [from here](https://github.com/SoumyadeepDatta/BookScraper)
+#### Or run the app on local machine. Download files 👉 [from here](https://github.com/SoumyadeepDatta/BookScraper)
 ```
 streamlit run main.py
 ```
