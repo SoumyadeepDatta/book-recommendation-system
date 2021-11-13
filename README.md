@@ -11,4 +11,4 @@
 ```
 streamlit run main.py
 ```
-![image](https://openlibrary.org/static/images/openlibrary-logo-tighter.svg)
+
